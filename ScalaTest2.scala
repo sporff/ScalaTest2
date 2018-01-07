@@ -76,7 +76,7 @@ object ScalaTest2 {
 
 		println(dc._x + ", " + dc._y+ ", " + dc._u+ ", " + dc._v)
 
-		var derCl = DClass("Bobby")
+		var derCl = DClass("NOYB")
 		derCl.print
 		DClass.DoShit()
 	}
