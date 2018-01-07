@@ -1,5 +1,8 @@
 
 
+// Fucking with scala OO features
+// No functional to see here, move along
+
 class SomeClass(x:Int, y:Int) {
 	var _x: Int = x
 	var _y: Int = y
